@@ -1,1 +1,3 @@
 # Klasifikasi-Jenis-Sampah
+
+Pada umumnya, terdapat 2 jenis sampah yaitu organik dan anorganik. Sampah organik biasanya berasal dari bahan yang mudah membusuk seperti makanan. Sampah organik dapat dimanfaatkan menjadi pupuk sederhana. Sampah anorganik biasanya berasal dari bahan yang sulit teruraikan seperti plastik dan kaca. Sampah anorganik dapat diolah kembali atau daur ulang menjadi barang yang bermanfaat dan bisa dijual. Pemilahan sampah organik dan anorganik sangatlah penting agar sampah tidak menumpuk dan menjaga kebersihan lingkungan sekitar. Proyek ini membahas mengenai pemilahan sampah organik dan anorganik menggunakan metode VGG. Dataset yang digunakan dapat diakses pada https://www.kaggle.com/datasets/techsash/waste-classification-data
